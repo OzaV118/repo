@@ -1,1 +1,2 @@
-This is Version 1 of my tutorial in git. My name is Oza Vatsal. Hello How are you?  
+This is Version 1 of my tutorial in git. My name is Oza Vatsal. Hello How are you? 
+This file in master branch. 
